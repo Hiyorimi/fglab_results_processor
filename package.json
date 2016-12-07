@@ -1,0 +1,19 @@
+{
+  "name": "fglab_results_processer",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "bull": "^1.0.0",
+    "mongodb": "^2.2.5",
+    "mongoskin": "^2.1.0",
+    "bluebird": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hiyourimi",
+  "license": "MIT"
+}
